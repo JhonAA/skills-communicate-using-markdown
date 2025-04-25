@@ -1,4 +1,8 @@
 # esto es H1
+
+- [ ] option 1
+- [ ] option 2
+- [ ] option N
 ## esto es H2
 ### esto es H3 12345678901234567890123456789012345678901234567890123456789012345678901234567890
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
