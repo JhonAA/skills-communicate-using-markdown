@@ -4,5 +4,15 @@
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ###### add image H6
 #### esto es H4
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+# esto es H1
+```
+javascript
+var myVar = "Hello, world!";
+```
 ##### esto es H5
 ###### esto es H6
